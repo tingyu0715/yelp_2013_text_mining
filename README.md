@@ -1,0 +1,2 @@
+# yelp_2013_text_mining
+針對review資料集的text欄位做文字探勘以及情緒分析
